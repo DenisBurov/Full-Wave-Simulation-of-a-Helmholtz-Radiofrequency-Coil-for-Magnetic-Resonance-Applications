@@ -5,6 +5,8 @@ This repository contains datasets from multiple published papers since November 
 ## Dataset Contents
 
 This collection includes:
+Magnetic field components in two sections: longitudinal and transverse in .csv format, obtained via XFdtd, the prototype schematic, MR-images, obtained from the prototype.
+Types of files:
 - Excel (.xls/.xlsx) files containing raw and processed research data
 - Intermediate plots and visualization outputs
 - Supporting data for MATLAB/Python scripts found in our [public repositories](#link-to-repos)
